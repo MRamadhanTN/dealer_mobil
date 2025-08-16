@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 0f351f9d7d47643353eb12bbd19796bdf3fd8b42 Your Name <you@example.com> 1754871520 +0700	commit (initial): first-commit
+0f351f9d7d47643353eb12bbd19796bdf3fd8b42 326ca04a4e3f0c6c301d02a06a9ed72b8c64654c Your Name <you@example.com> 1754963123 +0700	commit: Perbaiki konflik merge
+326ca04a4e3f0c6c301d02a06a9ed72b8c64654c bcf48ab829065833cf418cb90cacb6e60d448c1e Your Name <you@example.com> 1754963290 +0700	commit (merge): Merge branch 'main' of https://github.com/MRamadhanTN/admin_dealer_mobil
